@@ -20,7 +20,7 @@ import javafx.stage.Stage;
 
 public class ForecastController {
 	@FXML
-    private ComboBox<String> weatherTF;  //temperatures will be added here
+    private ComboBox<String> weatherTF;  //temperatures will be added here..
     @FXML
     private ComboBox<String> clothingTF; // clothing list using this dropdown
     @FXML
